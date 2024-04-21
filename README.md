@@ -19,3 +19,11 @@ iterates through the list, inserting each element into its correct position in t
 ### Selection Sort
 iterates through the list, selects the minimum element, and swaps it with the first unsorted element. Repeat until the list is sorted.<br>
 <img src="/picrures/selection.png" width="300" >
+
+## Examples
+Here are examples of sorting algorithms in action:
+<img src="/picrures/Example.png" width="300">
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
