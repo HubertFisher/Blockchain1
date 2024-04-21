@@ -21,7 +21,7 @@ iterates through the list, selects the minimum element, and swaps it with the fi
 <img src="/picrures/selection.png" width="300" >
 
 ## Examples
-Here are examples of sorting algorithms in action:
+Here are examples of sorting algorithms in action:<br>
 <img src="/picrures/Example.png" width="300">
 
 ## License
